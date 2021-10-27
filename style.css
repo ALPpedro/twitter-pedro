@@ -1,17 +1,36 @@
 .div1{
 height: 100%;
+border-right: 2px solid gray;
+height: 100%;
 }
 .list-menu{
     list-style-type: none;
 }
 .list-menu li{
     display: flex;
+    font-size: 26px;
 }
 .list-menu span{
     margin-right: 10px;
+    margin-top: 10px;
 }
 button{
     border: none;
+    margin-left: 60px;
+}
+.Conta{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 145px;
+}
+.Conta div{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.Conta img{
+    border-radius: 50%;
+    width: 100px;
+    height: 80px;
 }
 .btn-new-twitter{
     width: 200px;
