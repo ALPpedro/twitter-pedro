@@ -38,3 +38,18 @@ button{
 .icon-twitter{
 padding: 20px 0px 0px 20px;
 }
+.div2{
+    height: 100%;
+    border-right: 2px solid gray;
+    height: 100%;
+}
+.digiteAlgo{
+    display: flex;
+    margin-top: 10px;
+}
+.digiteAlgo
+.digiteAlgo img{
+    border-radius: 50%;
+    width: 100px;
+    height: 80px;
+}
